@@ -45,6 +45,8 @@ Secara keseluruhan, gambar ini menunjukkan tata letak yang terstruktur dan berla
 ***Deskripsi:**
 Secara keseluruhan, gambar ini menunjukkan pengaturan tata letak konten artikel yang dinamis dan berulang (zigzag), di mana elemen teks dan gambar ditukar posisinya (satu di kiri, satu di kanan) untuk menciptakan tampilan yang lebih menarik dalam area konten utama.
 <img width="1918" height="1017" alt="Elemen Main Content" src="https://github.com/user-attachments/assets/b77c7abc-be2c-4813-85fe-7673cb48fc91" />
+<img width="1917" height="1018" alt="Content Artikel" src="https://github.com/user-attachments/assets/2ee02ef2-5ac5-40b0-8441-8ea79b37ba6f" />
+
 
 ### codingannya
 ```html
